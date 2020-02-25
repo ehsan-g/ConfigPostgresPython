@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -109,10 +110,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#SQL_Dialects/0.0.1440.900@0.0.1440.900" timestamp="1582652186745" />
-    <state x="462" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582643477460">
+    <state x="462" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582653254508">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="462" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1582643477460" />
+    <state x="462" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1582653254508" />
     <state x="365" y="144" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1582649778611">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
